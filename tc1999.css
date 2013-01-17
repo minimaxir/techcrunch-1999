@@ -1,0 +1,36 @@
+body, ._li, .main {
+   background-image: url(http://i.imgur.com/UN5HE.png), url(http://i.imgur.com/pjTpK.gif) !important;
+   background-attachment: fixed, scroll !important;
+}
+
+p, div, li, h1, h2, h3, h4, h5, h6 {
+color: white !important;
+font-family: "Comic Sans MS" !important;
+text-shadow: 2px 2px black !important;
+}
+
+a, h1, h2, h3, h4, h5, h6 {
+background: -webkit-linear-gradient(top, rgba(252,236,252,1) 0%,rgba(251,166,225,1) 50%,rgba(253,137,215,1) 51%,rgba(255,124,216,1) 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+text-shadow: 1px 1px white !important;
+
+font-family: "Papyrus" !important;
+
+}
+
+.top-container, .middle-container, .bottom-container {
+background: none !important;
+}
+
+#module-header {
+border: none !important;
+}
+
+.fb-comment-container {
+ background: url(http://i.imgur.com/9tauh.gif) !important;
+}
+
+.nocontent {
+background: url(http://i.imgur.com/qnYge.gif) !important;
+}
